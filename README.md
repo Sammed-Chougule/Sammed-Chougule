@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif
 - 🔭 I’m currently working as JavaScript FullStack developer.
 - 📫 Kolhapur
 
