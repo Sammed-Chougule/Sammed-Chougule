@@ -25,6 +25,11 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
+<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/18139248?theme=default&website=true&location=true" alt="user:18139248's SO profile">
+</a>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **Sammed-Chougule/Sammed-Chougule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
