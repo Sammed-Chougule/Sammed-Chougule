@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sammedsanjaychougule@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sammedsanjaychougule@gmail.com)](mailto:sammedsanjaychougule@gmail.com)
 
 
-- 🔭 I’m currently working as JavaScript FullStack developer.
+- 🔭 I’m currently working as FullStack developer.
 - 📫 Kolhapur
 
  #### 👨🏻‍💻 Languages and Tools <br />
